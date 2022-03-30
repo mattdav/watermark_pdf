@@ -159,6 +159,6 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 #Custom elements
-pdf/
-avec_filigrane/
+pdf/**/*.pdf
+avec_filigrane/**/*.pdf
 choix_destinataires.xlsx
